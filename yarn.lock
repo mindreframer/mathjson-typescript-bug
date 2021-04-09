@@ -320,6 +320,11 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
+"@cortex-js/math-json@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@cortex-js/math-json/-/math-json-0.1.0.tgz#b5fd7b4b8fdb4d1c4324cfb9027231b72454c04d"
+  integrity sha512-E9hg197yfcfjzPdq8/I2PiqNGeo6BnZ22gcHfDE0r1hcmqm4ojYWZmouDtiAdcqaZL7n6XsJiiTTnedCAXyxaA==
+
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@istanbuljs/load-nyc-config/-/load-nyc-config-1.1.0.tgz#fd3db1d59ecf7cf121e80650bb86712f9b55eced"

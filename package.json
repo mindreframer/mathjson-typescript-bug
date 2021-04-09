@@ -4,7 +4,10 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:esm": "node --experimental-vm-modules node_modules/.bin/jest"
   },
   "dependencies": {
     "@cortex-js/math-json": "^0.1.0",
